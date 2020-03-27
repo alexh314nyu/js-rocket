@@ -1,2 +1,2 @@
 # js-rocket
-Launch Rocket with JavaScript 
+Launch Rocket with JavaScripty

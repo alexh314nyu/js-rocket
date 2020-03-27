@@ -1,7 +1,7 @@
-var sayMyName = function (name) {
-	alert('I am crazy about: '+name);
-}
+var whoDoYouLike = function (name) {
+	alert('I am crazy about: ' +name);
 
+}
 var car = {
 		make: 'VW', 
 		type: 'Polo',
