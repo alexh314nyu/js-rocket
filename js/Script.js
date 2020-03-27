@@ -1,5 +1,5 @@
 var sayMyName = function (name) {
-	alert('My name is: '+name);
+	alert("I am crazy about: "+name);
 }
 
 var car = {
